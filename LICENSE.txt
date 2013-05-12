@@ -1,0 +1,6 @@
+This project is based on khbbs by cjbennett: 
+https://github.com/cjbennett/khbbs
+
+The closest thing to a license available for the original project applies to this one as well: 
+
+Feel free to use this program or source code however you wish. I am not responsible if something bad happens as a result of this work.
